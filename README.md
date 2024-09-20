@@ -1,2 +1,3 @@
-# Ink and Metal 5773 - States Center Stage
-robot go beep boop
+# FIRST Tech Challenge Project Folder
+
+All program files can be found inside the TeamCode/
